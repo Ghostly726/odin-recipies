@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.aesthetic {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: justify;
+}
+a:link {
+    color: blue;
+}
+a:hover {
+    color: darkgoldenrod;
+}
+a:active {
+    color: black;
+}
+h2 {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
